@@ -7,7 +7,7 @@ Config.Notify         = true
 -- Damage resistance (0.25 = 25% less damage)
 Config.Resistance = {
     punch  = 0.35, -- unarmed
-    heavy  = 0.30, -- bats, crowbars, hammers, etc.
+    heavy  = 0.35, -- bats, crowbars, hammers, etc.
     knife  = 0.10, -- blades
     bullet = 0.05, -- keep between 0.00 and 0.05
 }
