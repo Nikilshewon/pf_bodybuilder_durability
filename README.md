@@ -3,8 +3,8 @@
 A lightweight FiveM resource that makes a player tougher like a bodybuilder. Health, healing, and movement/stamina stay completely normal. Only incoming damage is reduced.
 
 ## Features
-- 👊 Ordinary punches: 25% damage resistance
-- 🥊 Heavy melee (bats, crowbars, hammers...): 25% damage resistance
+- 👊 Ordinary punches: 35% damage resistance
+- 🥊 Heavy melee (bats, crowbars, hammers...): 35% damage resistance
 - 🔪 Knives: 10% damage resistance
 - 🔫 Bullets: 0-5% damage resistance
 - ❤️ Normal health and healing
